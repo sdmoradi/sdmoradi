@@ -85,12 +85,6 @@ Islamic Azad University, 2007–2011
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedmoradi&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing modern DevOps challenges, cloud-native solutions, or automation tools. Feel free to connect or reach out!
